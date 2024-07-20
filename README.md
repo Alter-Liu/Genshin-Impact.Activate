@@ -1,4 +1,4 @@
-# Genshin-Impact.Activate
+# Genshin-Impact, Activate!!!
 ## 项目介绍 ##   
 本项目拟构建一个基于Genshin Impact数据构建的大模型，并使用其中的人物风格作为回答的基础
 ## 教程推荐 ##  
